@@ -10,16 +10,26 @@ function About() {
       </h1>
 
       <p className="mt-4">
-        This is a simple to-do list app to demonstrate my React knowledge.
+        A simple to-do list app built using React
       </p>
 
       <p className="mt-4">
         <a
           className="transition duration-500 ease-in-out border-b border-pink-600 font-medium text-pink-600 hover:text-pink-500"
-          href="https://github.com/Phixyn/react-todo-app"
+          //href=""
           target="_blank"
         >
           View the code on GitHub &rarr;
+        </a>
+      </p>
+
+      <p className="mt-4">
+        <a
+          className="transition duration-500 ease-in-out border-b border-pink-600 font-medium text-pink-600 hover:text-pink-500"
+          href="https://github.com/naruto4999?tab=repositories"
+          target="_blank"
+        >
+          View my GitHub profile &rarr;
         </a>
       </p>
 

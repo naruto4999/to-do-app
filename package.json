@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "author": {
-    "name": "Phixyn",
-    "email": "phixyn@phixyn.com"
+    "name": "naruto4999",
+    "email": "kk.singh4999@gmail.com"
   },
   "license": "MIT",
   "dependencies": {
@@ -55,7 +55,7 @@
     "cypress-react-selector": "^2.3.6",
     "faker": "^5.4.0",
     "patch-package": "^6.4.5",
-    "postcss": "^7.0.35",
+    "postcss": "^7.0.39",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.3"
   }
 }

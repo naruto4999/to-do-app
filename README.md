@@ -14,13 +14,14 @@
     </a>
   </p>
 
-  ![Preview Screenshot](docs/screenshots/mobile_preview_cropped.png?raw=true)
+  <img src="docs/screenshots/mobile_preview_cropped.png" width="350">
 </div>
 
 - - -
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Overview](#overview)
 - [Getting Started](#getting-started)
 - [Building](#building)
