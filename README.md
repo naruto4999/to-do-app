@@ -54,7 +54,3 @@ Write task descriptions in the text field and press `Enter` to add them to the l
 Tasks can be marked as complete by ticking the checkbox. They can also be deleted by clicking the trash icon.
 
 **Note:** Tasks are not stored anywhere. If the page is refreshed or closed, all tasks will be gone.
-
-## License
-
-**MIT License**. For more information see [LICENSE](https://github.com/Phixyn/react-todo-app/blob/master/LICENSE).
