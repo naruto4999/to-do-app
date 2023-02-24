@@ -5,15 +5,6 @@
 <div align="center">
   <p>A to-do list application made with React.</p>
 
-  <p>
-    <a href="https://react-todo-phix.netlify.app/">
-      <img alt="Netlify deploy status" src="https://api.netlify.com/api/v1/badges/d4c024ed-0cc2-46af-890b-1ef998289a17/deploy-status">
-    </a>
-    <a href="https://github.com/Phixyn/react-todo-app/blob/master/LICENSE">
-      <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT badge" />
-    </a>
-  </p>
-
   <img src="docs/screenshots/mobile_preview_cropped.png" width="350">
 </div>
 
